@@ -127,3 +127,11 @@ nav .icon-burger .line {
 
     
 }
+section{
+    margin-top: 300px;  
+    margin-left: 500px;
+    padding: 1em;
+    font-size: 50px;
+    color: red;
+
+}
